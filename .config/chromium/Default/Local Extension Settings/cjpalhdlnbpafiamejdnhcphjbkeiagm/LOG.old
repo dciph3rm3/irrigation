@@ -1,0 +1,31 @@
+2019/09/12-20:55:14.321 603 Reusing MANIFEST /home/pi/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2019/09/12-20:55:42.842 657 Level-0 table #5: started
+2019/09/12-20:55:43.359 657 Level-0 table #5: 2554528 bytes OK
+2019/09/12-20:55:43.387 657 Delete type=0 #3
+2019/09/12-20:58:46.037 657 Level-0 table #7: started
+2019/09/12-20:58:46.584 657 Level-0 table #7: 2723713 bytes OK
+2019/09/12-20:58:46.600 657 Delete type=0 #4
+2019/09/12-21:02:48.020 657 Level-0 table #9: started
+2019/09/12-21:02:48.662 657 Level-0 table #9: 1528775 bytes OK
+2019/09/12-21:02:48.754 657 Delete type=0 #6
+2019/09/12-21:12:57.844 657 Level-0 table #11: started
+2019/09/12-21:12:58.430 657 Level-0 table #11: 2471309 bytes OK
+2019/09/12-21:12:58.520 657 Delete type=0 #8
+2019/09/12-21:24:10.154 657 Level-0 table #13: started
+2019/09/12-21:24:10.710 657 Level-0 table #13: 2233437 bytes OK
+2019/09/12-21:24:10.723 657 Delete type=0 #10
+2019/09/12-21:27:14.198 657 Level-0 table #15: started
+2019/09/12-21:27:14.586 657 Level-0 table #15: 2666311 bytes OK
+2019/09/12-21:27:14.597 657 Delete type=0 #12
+2019/09/12-21:27:14.601 657 Compacting 4@0 + 1@1 files
+2019/09/12-21:27:14.986 657 Generated table #16@0: 10 keys, 2142639 bytes
+2019/09/12-21:27:15.413 657 Generated table #17@0: 7 keys, 2123209 bytes
+2019/09/12-21:27:16.318 657 Generated table #18@0: 7 keys, 2796072 bytes
+2019/09/12-21:27:16.579 657 Generated table #19@0: 7 keys, 1187662 bytes
+2019/09/12-21:27:16.579 657 Compacted 4@0 + 1@1 files => 8249582 bytes
+2019/09/12-21:27:16.590 657 compacted to: files[ 0 4 1 0 0 0 0 ]
+2019/09/12-21:27:16.591 657 Delete type=2 #11
+2019/09/12-21:27:16.596 657 Delete type=2 #13
+2019/09/12-21:27:16.600 657 Delete type=2 #9
+2019/09/12-21:27:16.603 657 Delete type=2 #7
+2019/09/12-21:27:16.606 657 Delete type=2 #15
